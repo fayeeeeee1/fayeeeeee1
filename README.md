@@ -12,10 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-## 📈 GitHub Stats
-![Fay's GitHub stats](https://github-readme-stats.vercel.app/api?username=fayeeeeee1&show_icons=true&theme=radical)
-
 ## 🔗 Connect with Me
-[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:qup1010@qq.com)
+[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:qup1010@outlook.com)
 
 Thanks for stopping by!  Let's connect and build something amazing! :)
