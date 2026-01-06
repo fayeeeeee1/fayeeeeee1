@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🚀 About Me
 - I’m currently working on enhancing my personal portfolio and contributing to open-source projects.
 - I’m looking to collaborate on innovative web development projects and open-source contributions.
-- How to reach me: [qup1010@qq.com](mailto:qup1010@qq.com)
+- How to reach me: [qup1010@outlook.com](mailto:qup1010@outlook.com)
 - Fun fact: I love hiking and exploring new trails on weekends!
 
 ## 🛠️ Technologies & Tools
